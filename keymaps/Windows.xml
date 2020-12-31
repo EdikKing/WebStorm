@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows复制" parent="$default">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>
